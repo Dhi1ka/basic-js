@@ -8,3 +8,13 @@
 // var volume = 4/3 * pi * r * r * r;
 
 // console.log(volume);
+
+// var x = 'asd';
+// var y = 5;
+// var result = x - y;
+// console.log(typeof result);
+
+// var a = 100;
+// var b = '100';
+// var c = a === b;
+// console.log(c);
